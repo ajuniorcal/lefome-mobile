@@ -1,4 +1,4 @@
-
+import React from 'react'
 import { View, StatusBar } from 'react-native';
 
 import {NavigationContainer} from '@react-navigation/native'
@@ -19,5 +19,3 @@ export default function App() {
     </NavigationContainer>
   );
 }
-
-{}
